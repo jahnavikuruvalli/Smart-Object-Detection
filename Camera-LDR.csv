@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1","1","LED","","","","","~"
+"J1","1","Conn_01x06","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal","~"
+"LDR?","1","~","","","","","~"
+"R1","1","10k","","","","","~"
+"R2","1","220","","","","","~"

@@ -1,0 +1,33 @@
+Info: Total warnings: 0, errors: 4.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal'.
+Info: Processing symbol 'D1:'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'LDR1:'.
+Connected J1 pin 2 to /D8.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Camera-LDR.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net /GND.
+Connected J1 pin 4 to /GND.
+Connected J1 pin 6 to /GND.
+Add net /A0.
+Add net /D8.
+Updated J1 symbol association from  to /2cad4577-58fc-4580-9347-6312682a4282.
+Add net /5V.
+Connected J1 pin 3 to /5V.
+Connected J1 pin 5 to /GND.
+Changed J1 value from PinHeader_1x06_P2.54mm_Horizontal to Conn_01x06.
+Changed REF** reference designator to J1.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal').
+
+
+Connected J1 pin 1 to /A0.
+Error: Cannot add D1 (no footprint assigned).
+Error: Cannot add LDR1 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 4.
